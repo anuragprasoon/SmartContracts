@@ -1,2 +1,2 @@
 # SmartContracts
-Learning solidity by building simple smart contracts.
+Just learning solidity by building simple smart contracts.
